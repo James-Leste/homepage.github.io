@@ -26,7 +26,7 @@ My interests land on the intersection of cloud computing, big data and software 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Junction 2023</div><img src='./../images/particle.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interactive Particles Simulation based on WebGPU](https://github.com/James-Leste/WebGPU_ParticlesSimulation) **(JUNCTION 2023 Top5 Project)**
+[**Interactive Particles Simulation based on WebGPU**](https://github.com/James-Leste/WebGPU_ParticlesSimulation) **(JUNCTION 2023 Top5 Project)**
 
 **Ziqi Wang**, Sihang Yu
 
@@ -34,8 +34,8 @@ My interests land on the intersection of cloud computing, big data and software 
 
 ## What I did?
 
-- Implemented an interactive particles simulation prototype compatible with different mathematical models on a web application.
-- Demonstrated great performance improvement (>150%) by comparing between using CPU and GPU on Single-page Applications (SAP).
+- Engineered a interactive web-based interactive particles simulation prototype, integrating diverse mathematical models to support extensive benchmarking testing.
+- Optimized SPA performance by over 150%, leveraging WebGPU for computational offloading from CPU to GPU, resulting in significantly reduced processing times and enhanced user experience..
 - 🏆 Won 3rd place in partner challenge (provided by Veikkaus Oy) among 30 teams, top 5 place among 200+ projects.
 - Tech stack: Typescript, Node.js, Vite, WebGPU, etc.
 
@@ -45,7 +45,7 @@ My interests land on the intersection of cloud computing, big data and software 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Full Stack Project 2022-2023</div><img src='./../images/messaging.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Online Messaging Board](https://github.com/James-Leste/Messaging-Board)
+[**Online Messaging Board**](https://github.com/James-Leste/Messaging-Board)
 
 **Ziqi Wang**, Lei Pan (Supervisor from University of Oulu)
 
@@ -64,7 +64,7 @@ My interests land on the intersection of cloud computing, big data and software 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Machine Learning Project</div><img src='./../images/ml.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Comparison of Different Machine Learning Algorithms in the Prediction of Heart Disease](https://github.com/James-Leste/Heart_Disease_Prediction) **(5.0/5.0)**
+[**Comparison of Different Machine Learning Algorithms in the Prediction of Heart Disease**](https://github.com/James-Leste/Heart_Disease_Prediction) **(5.0/5.0)**
 
 **Ziqi Wang**, Nima Fakhrayi
 
@@ -77,6 +77,22 @@ algorithms in terms of predicting heart attack diseases.
 - Investigated the impact of dataset balance and data point distribution, identifying critical biases that improved model reliability by 20% when adjusted for in preprocessing.
 - Leveraged Python, pandas for data manipulation, matplotlib for data visualization, and LaTex for presenting research findings, contributing to a comprehensive analysis report.
 - Tech Stack: Python, pandas, matplotlib, LaTex, etc.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Machine Learning Project</div><img src='./../images/trafficsign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Traffic Signs Recognition Based on Convolutional Neural Networks**
+
+**Ziqi Wang**, Hang Cheng(Supervisor from NJIT)
+
+## What I did?
+
+- Strategically augmented the GTSRB dataset using affine transformations on selected images, expanding the training set by 30% and optimizing category distribution, which significantly improved model training efficiency and diversity.
+- Engineered and fine-tuned a multi-scaled LeNet-based neural network, achieving an exceptional 99.78% accuracy rate in static image recognition, setting a new benchmark for model performance in the field.
+- Tech stack: Python, Tensorflow, Jupyter Notebook, etc.
 
 </div>
 </div>
