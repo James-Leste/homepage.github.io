@@ -32,7 +32,7 @@ My interests land on the intersection of cloud computing, big data and software 
 
 [**Deployment**](https://particle-simulation.deno.dev/)
 
-## What I have done?
+## What I did?
 
 - Implemented an interactive particles simulation prototype compatible with different mathematical models on a web application.
 - Demonstrated great performance improvement (>150%) by comparing between using CPU and GPU on Single-page Applications (SAP).
@@ -49,7 +49,7 @@ My interests land on the intersection of cloud computing, big data and software 
 
 **Ziqi Wang**, Lei Pan (Supervisor from University of Oulu)
 
-## What I have done?
+## What I have did?
 
 - Architected and developed a microservices-based online messaging platform to facilitate anonymous and free discussions.
 - Integrated end-to-end encryption and markdown rendering, significantly enhancing data security and user experience, evidenced by a 30% increase in user engagement.
@@ -70,7 +70,7 @@ My interests land on the intersection of cloud computing, big data and software 
 
 [**Essay**](https://github.com/James-Leste/Heart_Disease_Prediction/blob/main/ML%20project.pdf)
 
-## What I have done?
+## What I have did?
 
 - Analyzed two extensive datasets from [Kaggle](https://www.kaggle.com) using advanced classification algorithms (e.g., SVM, RandomForest, and Logistic Regression) to accurately predict heart attack risks, enhancing predictive accuracy by 15%.
 algorithms in terms of predicting heart attack diseases.
@@ -81,10 +81,6 @@ algorithms in terms of predicting heart attack diseases.
 </div>
 </div>
 
-
-
-
-
 # 🎖 Honors and Awards
 
 - *2023.11* Top 5 Finalist Team & 3rd place in the partner challenge offered by Veikkaus Oy in JUNCTION 2023
@@ -93,5 +89,27 @@ algorithms in terms of predicting heart attack diseases.
 
 # 📖 Educations
 
-- *2023.09 - 2025.06 (now)*, Aalto University, MSc in Computer Science
-- *2019.09 - 2023.06*, University of Oulu, BSc in Software Engineering
+- *2023.09 - 2025.06 (now)*, Aalto University, MSc in Computer Science (4.86/5.00)
+- *2019.09 - 2023.06*, University of Oulu, BSc in Software Engineering (4.45/5.00)
+
+# 🧑🏻‍🎓 Internships
+
+## [Cupshe](https://www.cupshe.com/)
+
+**Android Developer**, 2023
+
+### What I have did?
+
+- Spearheaded the design, development, and deployment of the Cupshe Android application using React Native, resulting in a 25% increase in mobile user engagement within the first three months post-launch.
+- Collaborated in the agile development and ongoing optimization of the Cupshe RESTful/JSON API, enhancing system efficiency and facilitating seamless third-party integrations.
+- Leveraged a diverse tech stack including React Native, SQL, and Java, employing Git for version control, to contribute to the agile development of scalable and robust mobile and web applications.
+
+## [Nanjing Yi KaiTong Ltd.](https://www.baidu.com/link?url=bkEX_zXK5aVNSnNvdENgPa3BlcNlFSc8wzvb1zh2p6Amy_wHUabDGJwJmvIbxxVB25vVdzW1XpDKDRauz5MFHOC0YbhXzOOQ_4dX2QeCGJvW0zpgUmLZy1GyF7kkdxcl&wd=&eqid=bc6b023b001141560000000665e2153a)
+
+**Backend Engineer** 2020
+
+### What I have did?
+
+- Actively engaged in corporate strategy meetings, gaining in-depth insights into the software architecture and design patterns of enterprise-level web solutions, enhancing my proficiency in scalable system development.
+- Led rigorous API and software stability testing initiatives, employing JUnit and JMeter, to ensure robustness and security, resulting in a 30% reduction in critical bugs pre-launch. Documented all test cases and outcomes, facilitating knowledge transfer and best practices.
+- Utilized an advanced tech stack, including Java, Spring Boot, and JUnit, leveraging GitLab CI for continuous integration and JMeter for performance testing, to contribute to the agile development of robust backend solutions.

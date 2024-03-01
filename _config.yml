@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziqi Wang"
   avatar           : "images/profile.png"
-  bio              : "Aalto University"
+  bio              : "Aalto University, MSc in <a href=\"https://www.aalto.fi/en/study-options/computer-science-computer-communication-and-information-sciences-master-of-science-technology\">Computer Science<a/>"
   location         : "Espoo, Helsinki"
   employer         :
   pubmed           : 
