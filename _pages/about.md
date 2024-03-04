@@ -23,6 +23,27 @@ My interests land on the intersection of cloud computing, big data and software 
 
 # 🧑🏻‍💻 Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Big Data Platform(Ongoing)</div><img src='./../images/bigdataplatform.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Big Data Analysis Platform**](https://github.com/James-Leste/Big-Data-Platform-2024)
+
+**Ziqi Wang**, Hong-Linh Truong(supervisor)
+
+## What I did?
+
+- Designed a comprehensive big data platform, integrating advanced components for data ingestion, real-time analysis, and secure storage, to support data-driven decision-making for multiple clients, handling over 1TB till now.
+- Developed a dynamic, multi-tenant user interface using Express.js, enabling intuitive interaction with complex big data workflows.
+- Tech Stack: Python, Cassandra, MQTT, Kafka, Google Cloud Platform, Express.js, etc.
+
+## Current Goals
+
+- Simulate near real-time data ingestion.
+- Deal with encrypted data and security problems.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Junction 2023</div><img src='./../images/particle.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
