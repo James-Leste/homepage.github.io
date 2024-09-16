@@ -40,6 +40,8 @@ My interests land on the intersection of cloud computing, big data and software 
 
 -   Migrate from Firebase to open source Supabase.
 -   Integrating client app
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Big Data Platform(Ongoing)</div><img src='./../images/bigdataplatform.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
