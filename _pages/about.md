@@ -3,9 +3,9 @@ permalink: /
 title: "Ziqi Wang' Homepage"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+    - /about/
+    - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -23,6 +23,24 @@ My interests land on the intersection of cloud computing, big data and software 
 
 # 🧑🏻‍💻 Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">qrsuite</div><img src='./../images/system.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**qrsuite**](https://github.com/James-Leste/qrsuite)
+
+**Ziqi Wang**
+
+## What I did?
+
+-   Implemented a smooth and interactive restaurant management system and its corresponding user-end application, which allow
+    seamless interaction between restaurants and customers.
+-   Tech used: Flutter, Dart, Firebase, Google Cloud Platform, Supabase, PostgreSQL, Stripe (Payment).
+
+## Current Goals
+
+-   Migrate from Firebase to open source Supabase.
+-   Integrating client app
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Big Data Platform(Ongoing)</div><img src='./../images/bigdataplatform.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -32,14 +50,14 @@ My interests land on the intersection of cloud computing, big data and software 
 
 ## What I did?
 
-- Designed a comprehensive big data platform, integrating advanced components for data ingestion, real-time analysis, and secure storage, to support data-driven decision-making for multiple clients, handling over 1TB till now.
-- Developed a dynamic, multi-tenant user interface using Express.js, enabling intuitive interaction with complex big data workflows.
-- Tech Stack: Python, Cassandra, MQTT, Kafka, Google Cloud Platform, Express.js, etc.
+-   Designed a comprehensive big data platform, integrating advanced components for data ingestion, real-time analysis, and secure storage, to support data-driven decision-making for multiple clients, handling over 1TB till now.
+-   Developed a dynamic, multi-tenant user interface using Express.js, enabling intuitive interaction with complex big data workflows.
+-   Tech Stack: Python, Cassandra, MQTT, Kafka, Google Cloud Platform, Express.js, etc.
 
 ## Current Goals
 
-- Simulate near real-time data ingestion.
-- Deal with encrypted data and security problems.
+-   Simulate near real-time data ingestion.
+-   Deal with encrypted data and security problems.
 
 </div>
 </div>
@@ -55,10 +73,10 @@ My interests land on the intersection of cloud computing, big data and software 
 
 ## What I did?
 
-- Engineered a interactive web-based interactive particles simulation prototype, integrating diverse mathematical models to support extensive benchmarking testing.
-- Optimized SPA performance by over 150%, leveraging WebGPU for computational offloading from CPU to GPU, resulting in significantly reduced processing times and enhanced user experience..
-- 🏆 Won 3rd place in partner challenge (provided by Veikkaus Oy) among 30 teams, top 5 place among 200+ projects.
-- Tech stack: Typescript, Node.js, Vite, WebGPU, etc.
+-   Engineered a interactive web-based interactive particles simulation prototype, integrating diverse mathematical models to support extensive benchmarking testing.
+-   Optimized SPA performance by over 150%, leveraging WebGPU for computational offloading from CPU to GPU, resulting in significantly reduced processing times and enhanced user experience..
+-   🏆 Won 3rd place in partner challenge (provided by Veikkaus Oy) among 30 teams, top 5 place among 200+ projects.
+-   Tech stack: Typescript, Node.js, Vite, WebGPU, etc.
 
 </div>
 </div>
@@ -72,10 +90,10 @@ My interests land on the intersection of cloud computing, big data and software 
 
 ## What I have did?
 
-- Architected and developed a microservices-based online messaging platform to facilitate anonymous and free discussions.
-- Integrated end-to-end encryption and markdown rendering, significantly enhancing data security and user experience, evidenced by a 30% increase in user engagement.
-- *New Feature (update in 2023.09)* Led a strategic migration from MySQL to MongoDB, boosting system scalability by 40% to accommodate growing user data and traffic.
-- Tech stack: Vue, Vue router, Spring boot, RDS MySQL, MongoDB, Vite, RabbitMQ, etc.
+-   Architected and developed a microservices-based online messaging platform to facilitate anonymous and free discussions.
+-   Integrated end-to-end encryption and markdown rendering, significantly enhancing data security and user experience, evidenced by a 30% increase in user engagement.
+-   _New Feature (update in 2023.09)_ Led a strategic migration from MySQL to MongoDB, boosting system scalability by 40% to accommodate growing user data and traffic.
+-   Tech stack: Vue, Vue router, Spring boot, RDS MySQL, MongoDB, Vite, RabbitMQ, etc.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -93,11 +111,11 @@ My interests land on the intersection of cloud computing, big data and software 
 
 ## What I have did?
 
-- Analyzed two extensive datasets from [Kaggle](https://www.kaggle.com) using advanced classification algorithms (e.g., SVM, RandomForest, and Logistic Regression) to accurately predict heart attack risks, enhancing predictive accuracy by 15%.
-algorithms in terms of predicting heart attack diseases.
-- Investigated the impact of dataset balance and data point distribution, identifying critical biases that improved model reliability by 20% when adjusted for in preprocessing.
-- Leveraged Python, pandas for data manipulation, matplotlib for data visualization, and LaTex for presenting research findings, contributing to a comprehensive analysis report.
-- Tech Stack: Python, pandas, matplotlib, LaTex, etc.
+-   Analyzed two extensive datasets from [Kaggle](https://www.kaggle.com) using advanced classification algorithms (e.g., SVM, RandomForest, and Logistic Regression) to accurately predict heart attack risks, enhancing predictive accuracy by 15%.
+    algorithms in terms of predicting heart attack diseases.
+-   Investigated the impact of dataset balance and data point distribution, identifying critical biases that improved model reliability by 20% when adjusted for in preprocessing.
+-   Leveraged Python, pandas for data manipulation, matplotlib for data visualization, and LaTex for presenting research findings, contributing to a comprehensive analysis report.
+-   Tech Stack: Python, pandas, matplotlib, LaTex, etc.
 
 </div>
 </div>
@@ -111,23 +129,23 @@ algorithms in terms of predicting heart attack diseases.
 
 ## What I did?
 
-- Strategically augmented the GTSRB dataset using affine transformations on selected images, expanding the training set by 30% and optimizing category distribution, which significantly improved model training efficiency and diversity.
-- Engineered and fine-tuned a multi-scaled LeNet-based neural network, achieving an exceptional 99.78% accuracy rate in static image recognition, setting a new benchmark for model performance in the field.
-- Tech stack: Python, Tensorflow, Jupyter Notebook, etc.
+-   Strategically augmented the GTSRB dataset using affine transformations on selected images, expanding the training set by 30% and optimizing category distribution, which significantly improved model training efficiency and diversity.
+-   Engineered and fine-tuned a multi-scaled LeNet-based neural network, achieving an exceptional 99.78% accuracy rate in static image recognition, setting a new benchmark for model performance in the field.
+-   Tech stack: Python, Tensorflow, Jupyter Notebook, etc.
 
 </div>
 </div>
 
 # 🎖 Honors and Awards
 
-- *2023.11* Top 5 Finalist Team & 3rd place in the partner challenge offered by Veikkaus Oy in JUNCTION 2023
-- *2023.03* Finland Scholarship for the Master's Programme in Computer Science at Aalto University among 800+ applcants
-- *2022.12* Dean’s Honor List of Academic Year by NJIT 2021-2022
+-   _2023.11_ Top 5 Finalist Team & 3rd place in the partner challenge offered by Veikkaus Oy in JUNCTION 2023
+-   _2023.03_ Finland Scholarship for the Master's Programme in Computer Science at Aalto University among 800+ applcants
+-   _2022.12_ Dean’s Honor List of Academic Year by NJIT 2021-2022
 
 # 📖 Educations
 
-- *2023.09 - 2025.06 (now)*, Aalto University, MSc in Computer Science (4.86/5.00)
-- *2019.09 - 2023.06*, University of Oulu, BSc in Software Engineering (4.45/5.00)
+-   _2023.09 - 2025.06 (now)_, Aalto University, MSc in Computer Science (4.86/5.00)
+-   _2019.09 - 2023.06_, University of Oulu, BSc in Software Engineering (4.45/5.00)
 
 # 🧑🏻‍🎓 Internships
 
@@ -137,9 +155,9 @@ algorithms in terms of predicting heart attack diseases.
 
 ### What I have did?
 
-- Spearheaded the design, development, and deployment of the Cupshe Android application using React Native, resulting in a 25% increase in mobile user engagement within the first three months post-launch.
-- Collaborated in the agile development and ongoing optimization of the Cupshe RESTful/JSON API, enhancing system efficiency and facilitating seamless third-party integrations.
-- Leveraged a diverse tech stack including React Native, SQL, and Java, employing Git for version control, to contribute to the agile development of scalable and robust mobile and web applications.
+-   Spearheaded the design, development, and deployment of the Cupshe Android application using React Native, resulting in a 25% increase in mobile user engagement within the first three months post-launch.
+-   Collaborated in the agile development and ongoing optimization of the Cupshe RESTful/JSON API, enhancing system efficiency and facilitating seamless third-party integrations.
+-   Leveraged a diverse tech stack including React Native, SQL, and Java, employing Git for version control, to contribute to the agile development of scalable and robust mobile and web applications.
 
 ## [Nanjing Yi KaiTong Ltd.](https://www.baidu.com/link?url=bkEX_zXK5aVNSnNvdENgPa3BlcNlFSc8wzvb1zh2p6Amy_wHUabDGJwJmvIbxxVB25vVdzW1XpDKDRauz5MFHOC0YbhXzOOQ_4dX2QeCGJvW0zpgUmLZy1GyF7kkdxcl&wd=&eqid=bc6b023b001141560000000665e2153a)
 
@@ -147,6 +165,6 @@ algorithms in terms of predicting heart attack diseases.
 
 ### What I have did?
 
-- Actively engaged in corporate strategy meetings, gaining in-depth insights into the software architecture and design patterns of enterprise-level web solutions, enhancing my proficiency in scalable system development.
-- Led rigorous API and software stability testing initiatives, employing JUnit and JMeter, to ensure robustness and security, resulting in a 30% reduction in critical bugs pre-launch. Documented all test cases and outcomes, facilitating knowledge transfer and best practices.
-- Utilized an advanced tech stack, including Java, Spring Boot, and JUnit, leveraging GitLab CI for continuous integration and JMeter for performance testing, to contribute to the agile development of robust backend solutions.
+-   Actively engaged in corporate strategy meetings, gaining in-depth insights into the software architecture and design patterns of enterprise-level web solutions, enhancing my proficiency in scalable system development.
+-   Led rigorous API and software stability testing initiatives, employing JUnit and JMeter, to ensure robustness and security, resulting in a 30% reduction in critical bugs pre-launch. Documented all test cases and outcomes, facilitating knowledge transfer and best practices.
+-   Utilized an advanced tech stack, including Java, Spring Boot, and JUnit, leveraging GitLab CI for continuous integration and JMeter for performance testing, to contribute to the agile development of robust backend solutions.
