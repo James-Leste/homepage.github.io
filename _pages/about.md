@@ -15,7 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<!-- <span class='anchor' id='about-me'></span> -->
+
+# 🚶🏻 About Me
 
 I am a master's student in Computer Science at Aalto University. I mainly work with python and Javascript, participating in some cloud-computing researches and business development. I wish to land a summer job after 2023-2024 academic year as a software engineer or a developer. If you are hiring, feel free to email me at ziqi.wang@aalto.fi.
 
@@ -138,18 +140,18 @@ My interests land on the intersection of cloud computing, big data and software 
 </div>
 </div>
 
+# 📖 Educations
+
+-   _2023.09 - 2025.06 (now)_, Aalto University, MSc in Computer Science (4.86/5.00)
+-   _2019.09 - 2023.06_, University of Oulu, BSc in Software Engineering (4.45/5.00)
+
 # 🎖 Honors and Awards
 
 -   _2023.11_ Top 5 Finalist Team & 3rd place in the partner challenge offered by Veikkaus Oy in JUNCTION 2023
 -   _2023.03_ Finland Scholarship for the Master's Programme in Computer Science at Aalto University among 800+ applcants
 -   _2022.12_ Dean’s Honor List of Academic Year by NJIT 2021-2022
 
-# 📖 Educations
-
--   _2023.09 - 2025.06 (now)_, Aalto University, MSc in Computer Science (4.86/5.00)
--   _2019.09 - 2023.06_, University of Oulu, BSc in Software Engineering (4.45/5.00)
-
-# 🧑🏻‍🎓 Internships
+# 🧑🏻‍🎓 Work Experience
 
 ## [Cupshe](https://www.cupshe.com/)
 
