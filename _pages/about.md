@@ -19,11 +19,84 @@ redirect_from:
 
 # 🚶🏻 About Me
 
-I am a master's student in Computer Science at Aalto University. I mainly work with python and Javascript, participating in some cloud-computing researches and business development. I wish to land a summer job after 2023-2024 academic year as a software engineer or a developer. If you are hiring, feel free to email me at ziqi.wang@aalto.fi.
+I am a 2nd master's student in Computer Science at Aalto University. I do full stack development, UI design, software architecture design and data anlysis.
 
-My interests land on the intersection of cloud computing, big data and software engineering. I have done related researches and courses at the university.
+My interests land on the intersection of cloud computing, software infrastructure and AI.
+
+In my spare time, I actively contribute to open-source projects to keep myself updated with newly emerged technologies and build useful tools to elevate sustainability and improve efficiency. I am a quick learner and good at using online resources (official documentations, YouTube videos) to expand my expertise. My technical interests lie in developing embedded software/network architectures. Additionally, I enjoy running, hiking, playing basketball and playing video games to relax during holidays, and weekends.
+
+# 🧑🏻‍🎓 Work Experience
+
+## [Nokia](https://www.nokia.com/)
+**Thesis worker**, will start from 2nd Jan. 2025
+
+- TO BE DETERMINED
+
+## [CS-IT, Aalto University](https://scicomp.aalto.fi/about/cs-it/)
+**Web developer intern**, Oct. 2024 - Dec. 2024, 3 months
+
+- Participating in the full-stack development and maintenance of the existing open-source software A+, which is extensively used by
+students and teachers.
+- Implementing extensive e2e tests with Playwright and unit tests with Pytest.
+- Deployed containerized applications with k8s, ensuring consistent and scalable deployment across different environments.
+- Tech Stack: Django, Kubernetes, PostgreSQL, Docker, Jenkin, NGINX, Selenium, Playwright.
+
+## [Cupshe](https://www.cupshe.com/)
+
+**Android developer**, 2023
+
+### What I have did?
+
+-   Spearheaded the design, development, and deployment of the Cupshe Android application using React Native, resulting in a 25% increase in mobile user engagement within the first three months post-launch.
+-   Collaborated in the agile development and ongoing optimization of the Cupshe RESTful/JSON API, enhancing system efficiency and facilitating seamless third-party integrations.
+-   Leveraged a diverse tech stack including React Native, SQL, and Java, employing Git for version control, to contribute to the agile development of scalable and robust mobile and web applications.
 
 # 🧑🏻‍💻 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GApe</div><img src='./../images/GApe_preview.png ' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**GApe (Get A Page Easily)**](https://github.com/James-Leste/GApe)
+
+**Ziqi Wang, Ali**
+
+*Sep. 2024 - Present*
+
+## What I did?
+
+-   Implemented GApe, an interactive design tool for creating one-page content built around the concept of ‘dragging and customising’, meaning users are encouraged to apply the platform in an exploratory manner by placing every piece of widgets on a canvas freely. [Demo](https://gape-xi.vercel.app/)
+-   Integrated and debugged the core functionality: Drag and Drop!
+-   Tech used: Typescript, PostgreSQL, Next.Js, GitHub Action, Tailwind CSS
+
+## Further Goals
+
+-   Front page refactoring
+-   Integrating client app
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">eyedentity</div><img src='./../images/eyetracking.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**eyedentity**](https://github.com/James-Leste/eyedentity)
+
+**Ziqi Wang, Ali, Sihang Yu**
+
+*Nov. 2024 - Present*
+
+## What I did?
+
+- Created a human identifying tool based on deep gazing detection which can be easily integrated with online vote platforms and
+provides a light-weight verification and progress tracking solution. [Demo](https://eyedentity-hazel.vercel.app/)
+- [Won 2nd in the partner challenge provided by Sitra during Junction 2024.](https://www.linkedin.com/posts/sitra_junction2024-junctionhackathon-democracy-activity-7262385478174199809-z_GY)
+- Tech used: React, JavaScript, Vite, Computer Vision.
+
+## Further Goals
+
+-   UI enhancement
+-   Model-agnostic integration
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">qrsuite</div><img src='./../images/system.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,10 +111,9 @@ My interests land on the intersection of cloud computing, big data and software 
     seamless interaction between restaurants and customers.
 -   Tech used: Flutter, Dart, Firebase, Google Cloud Platform, Supabase, PostgreSQL, Stripe (Payment).
 
-## Current Goals
+## Further Goals
 
 -   Migrate from Firebase to open source Supabase.
--   Integrating client app
 </div>
 </div>
 
@@ -58,7 +130,7 @@ My interests land on the intersection of cloud computing, big data and software 
 -   Developed a dynamic, multi-tenant user interface using Express.js, enabling intuitive interaction with complex big data workflows.
 -   Tech Stack: Python, Cassandra, MQTT, Kafka, Google Cloud Platform, Express.js, etc.
 
-## Current Goals
+## Further Goals
 
 -   Simulate near real-time data ingestion.
 -   Deal with encrypted data and security problems.
@@ -85,7 +157,7 @@ My interests land on the intersection of cloud computing, big data and software 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Full Stack Project 2022-2023</div><img src='./../images/messaging.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Full Stack Project 2022-2023</div><img src='./../images/messaging.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Online Messaging Board**](https://github.com/James-Leste/Messaging-Board)
@@ -97,12 +169,12 @@ My interests land on the intersection of cloud computing, big data and software 
 -   Architected and developed a microservices-based online messaging platform to facilitate anonymous and free discussions.
 -   Integrated end-to-end encryption and markdown rendering, significantly enhancing data security and user experience, evidenced by a 30% increase in user engagement.
 -   _New Feature (update in 2023.09)_ Led a strategic migration from MySQL to MongoDB, boosting system scalability by 40% to accommodate growing user data and traffic.
--   Tech stack: Vue, Vue router, Spring boot, RDS MySQL, MongoDB, Vite, RabbitMQ, etc.
+-   Tech stack: Vue, Vue router, Spring boot, RDS MySQL, MongoDB, Vite, RabbitMQ, etc. -->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
+<!-- </div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Machine Learning Project</div><img src='./../images/ml.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -142,7 +214,7 @@ My interests land on the intersection of cloud computing, big data and software 
 
 # 📖 Educations
 
--   _2023.09 - 2025.06 (now)_, Aalto University, MSc in Computer Science (4.86/5.00)
+-   _2023.09 - 2025.06 (now)_, Aalto University, MSc in Computer Science (4.91/5.00)
 -   _2019.09 - 2023.06_, University of Oulu, BSc in Software Engineering (4.45/5.00)
 
 # 🎖 Honors and Awards
@@ -151,24 +223,3 @@ My interests land on the intersection of cloud computing, big data and software 
 -   _2023.03_ Finland Scholarship for the Master's Programme in Computer Science at Aalto University among 800+ applcants
 -   _2022.12_ Dean’s Honor List of Academic Year by NJIT 2021-2022
 
-# 🧑🏻‍🎓 Work Experience
-
-## [Cupshe](https://www.cupshe.com/)
-
-**Android Developer**, 2023
-
-### What I have did?
-
--   Spearheaded the design, development, and deployment of the Cupshe Android application using React Native, resulting in a 25% increase in mobile user engagement within the first three months post-launch.
--   Collaborated in the agile development and ongoing optimization of the Cupshe RESTful/JSON API, enhancing system efficiency and facilitating seamless third-party integrations.
--   Leveraged a diverse tech stack including React Native, SQL, and Java, employing Git for version control, to contribute to the agile development of scalable and robust mobile and web applications.
-
-## [Nanjing Yi KaiTong Ltd.](https://www.baidu.com/link?url=bkEX_zXK5aVNSnNvdENgPa3BlcNlFSc8wzvb1zh2p6Amy_wHUabDGJwJmvIbxxVB25vVdzW1XpDKDRauz5MFHOC0YbhXzOOQ_4dX2QeCGJvW0zpgUmLZy1GyF7kkdxcl&wd=&eqid=bc6b023b001141560000000665e2153a)
-
-**Backend Engineer** 2020
-
-### What I have did?
-
--   Actively engaged in corporate strategy meetings, gaining in-depth insights into the software architecture and design patterns of enterprise-level web solutions, enhancing my proficiency in scalable system development.
--   Led rigorous API and software stability testing initiatives, employing JUnit and JMeter, to ensure robustness and security, resulting in a 30% reduction in critical bugs pre-launch. Documented all test cases and outcomes, facilitating knowledge transfer and best practices.
--   Utilized an advanced tech stack, including Java, Spring Boot, and JUnit, leveraging GitLab CI for continuous integration and JMeter for performance testing, to contribute to the agile development of robust backend solutions.
